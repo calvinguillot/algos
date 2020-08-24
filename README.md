@@ -1,9 +1,10 @@
 # Algorithms
 
-This is a tool to visualise differnte sorting algorithms. 
-Select a type and then the amoount of elements to sort.
+This is a tool to visualise different sorting algorithms. 
 
-You can find a demo here [Algos Viz](algorithmsviz.web.app) 
+Select a type, and then the amount of elements to sort.
+
+You can find a demo here [Algos Viz](algorithmsviz.web.app) .
 
 ## Project setup
 ```
