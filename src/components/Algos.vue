@@ -320,10 +320,6 @@ export default {
 
 <style scoped>
 
-::-webkit-scrollbar {
-  display: none;
-}
-
 .v-dialog .v-dialog--active .v-card {
   border-radius: 30px !important;
 }
